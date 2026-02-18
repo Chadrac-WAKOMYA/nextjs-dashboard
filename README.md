@@ -2,6 +2,8 @@
 
 Bienvenue sur mon projet de tableau de bord financier ! C'est une application de gestion moderne construite avec **Next.js 14+**, exploitant les dernières fonctionnalités du framework pour offrir une expérience utilisateur fluide et performante.
 
+![Dashboard Preview](./screenshots/screenshot.png)
+
 ## 🌟 Aperçu du Projet
 Ce dashboard permet de gérer des clients et des factures en temps réel. Il met l'accent sur la performance brute, l'accessibilité et la sécurité des données.
 
