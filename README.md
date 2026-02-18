@@ -2,6 +2,12 @@
 
 Bienvenue sur mon projet de tableau de bord financier ! C'est une application de gestion moderne construite avec **Next.js 14+**, exploitant les dernières fonctionnalités du framework pour offrir une expérience utilisateur fluide et performante.
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Dashboard Preview](./screenshots/screenshot.PNG)
 
 ## 🌟 Aperçu du Projet
