@@ -17,7 +17,7 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
           {
             label: 'Edit Invoice',
             href: `/dashboard/invoices/${id}/edit`,
-            active: true,
+            // active: true,
           },
         ]}
       />
